@@ -125,3 +125,15 @@
 .no-right-padding {
   padding-right: 0;
 }
+
+.table tr td {
+  
+  a.main-link {
+    color: #428bca;
+  }
+  
+  a.main-link:hover {
+    background: none;
+  }
+  
+}
