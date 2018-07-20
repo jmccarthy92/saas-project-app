@@ -9,6 +9,7 @@ gem 'rails', '~> 5.2.0'
 gem 'pg', '>= 0.18', '< 2.0'
 gem 'devise'
 gem 'milia'
+gem 'aws-sdk'
 
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'

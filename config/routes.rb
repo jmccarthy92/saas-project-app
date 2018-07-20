@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
   
+  resources :artifacts
   # ensures project routes are underneath tenants
   resources :tenants do 
     resources :projects
