@@ -10,6 +10,7 @@ gem 'pg', '>= 0.18', '< 2.0'
 gem 'devise'
 gem 'milia'
 gem 'aws-sdk'
+gem 'stripe'
 
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
